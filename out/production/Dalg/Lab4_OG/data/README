@@ -1,0 +1,8 @@
+Testfall för labb 4 i DALG.
+
+Exempel på användning:
+java Main < /home/TDDC70/lab4/testfall/sample.in > sample.out
+Jämför sedan sample.out med sample.ans.
+
+Notera att det kan finnas fall då flera olika lösningar är korrekta.
+Testfallet har då bara en av dessa.

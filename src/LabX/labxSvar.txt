@@ -1,0 +1,4 @@
+Problemet med kodskelettet är att då heapen inte sorteras så kommer det vara jobbigare
+att hitta kollissioner när heapen byggs på. Genom att sortera efter en minheap så kommer det
+aktuella att ligga högre upp och därför behandlas snabbare. Om vi har färre punkter och därmed
+färre kollisioner så är det inte lika nödvändigt att sortera heapen.
